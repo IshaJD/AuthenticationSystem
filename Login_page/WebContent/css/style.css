@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+.bg-custom{
+	 background-color:#1b5e20 !important;
+    
+}
+.bg-custom1{
+ background-color:rgb(50,205,50);	
+}
+.b-color{
+	background-color:rgb(34,193,195);	
+	background:linear-gradient(Odeg,rgba(34,193,195,1)0%,rgba(253,187,45,1)100%);
+}
